@@ -1,0 +1,3 @@
+# aGitRepository
+for experimentation
+and further learning...
